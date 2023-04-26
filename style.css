@@ -1,0 +1,15 @@
+#heading{
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    font-size: 22px;
+}
+h3 span{
+    color: red;
+    font-size: 20px;
+}
+body{
+    background: url("background.webp");
+    background-size: cover;
+    background-position: center;
+}
